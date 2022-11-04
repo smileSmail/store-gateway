@@ -1,0 +1,7 @@
+application:
+  port: 8080
+
+
+jwt:
+  hmacSampleSecret: wangxiaoxiao_store
+  issuer: wangxiaoxiao
